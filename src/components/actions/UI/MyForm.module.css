@@ -1,0 +1,12 @@
+.MyForm{ 
+    display:flex;
+    flex-direction:column;
+    width: 40vw;
+    height:40vh;
+    border-radius:12px;
+    background-color: blue;
+    color:white;
+    justify-content: center;
+    align-items:center;
+
+}

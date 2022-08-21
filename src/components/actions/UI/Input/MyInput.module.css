@@ -1,0 +1,32 @@
+.main{
+    margin-right:20vw;
+    display:flex;
+    align-items:center;
+    
+}
+.icon{ 
+    margin-right:5px;
+}
+
+.input{ 
+    margin-right:5px;
+}
+
+.MyBTN{
+    border-radius:5px;
+    border-width:0;
+    background-color:black;
+    color:white;
+    font-size:11px;
+    padding:5px 15px;
+    cursor:pointer;
+
+}
+
+.MyBTN:hover{    
+    background:grey;
+}
+
+.icon{ 
+    color:blue;
+}
